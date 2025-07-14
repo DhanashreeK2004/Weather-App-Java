@@ -8,6 +8,10 @@ Requirements
 - OpenWeatherMap API key (https://openweathermap.org/api).
 - `json-20231013.jar` (from [Maven Central](https://repo1.maven.org/maven2/org/json/json/))
 
+
+
 How to run
-Compile : javac -cp ".;library/json-20231013.jar" WeatherApp.java
-Run : java -cp ".;library/json-20231013.jar" WeatherApp
+
+
+- Compile : javac -cp ".;library/json-20231013.jar" WeatherApp.java
+- Run : java -cp ".;library/json-20231013.jar" WeatherApp
